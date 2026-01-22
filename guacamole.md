@@ -3,5 +3,4 @@
 * avocado
 * lime
 * salt
-
 ## Instructions
